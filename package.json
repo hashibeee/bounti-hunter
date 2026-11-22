@@ -1,0 +1,25 @@
+{
+  "name": "bounti-hunter",
+  "version": "1.0.0",
+  "description": "make.fun autonomous bounty hunter — 5-min screening, auto build, auto submit, auto review.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashibeee/bounti-hunter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/hashibeee/bounti-hunter/issues"
+  },
+  "homepage": "https://github.com/hashibeee/bounti-hunter#readme",
+  "dependencies": {
+    "bs58": "^6.0.0",
+    "tweetnacl": "^1.0.3"
+  }
+}
