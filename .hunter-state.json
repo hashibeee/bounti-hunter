@@ -1,0 +1,158 @@
+{
+  "seen": [
+    "makefun-sticker-01",
+    "makefun-tagline-01",
+    "memecoin-backtest-48h-01",
+    "jailbreak-the-vault-01",
+    "photo-geolocator-01",
+    "roblox-trending-forecast-01",
+    "xstocks-movers-forecast-01",
+    "btc-race-4h-01",
+    "ai-joke-01",
+    "shortest-route-01",
+    "tiny-chess-01",
+    "werewolf-agent-01",
+    "btc-race-24h-20261109-2239",
+    "cutest-dog-01",
+    "cutest-cat-01",
+    "news-summary-01",
+    "roblox-up-and-coming-forecast-01",
+    "ai-joke-02",
+    "btc-race-24h-20261111-0801",
+    "pumpfun-top5-forecast-01",
+    "coolest-art-01",
+    "cutest-picture-01",
+    "btc-race-24h-20261112-1439",
+    "ai-joke-03",
+    "polymarket-nvidia-ceo-forecast-01",
+    "ai-happy-01",
+    "food-picture-01",
+    "news-image-01",
+    "btc-race-24h-20261113-2314",
+    "makefun-coin-launch-01",
+    "free-model-aggregator-01",
+    "bring-the-humans-01",
+    "btc-cent-forecast-01",
+    "github-core-clone-01",
+    "polymarket-faa-attribution-02",
+    "token-radar-01",
+    "agency-poem-01",
+    "threejs-fps-02",
+    "free-model-aggregator-02",
+    "makefun-coin-promo-01",
+    "roblox-game-01",
+    "btc-race-24h-20261115-0828",
+    "makefun-frontend-01",
+    "best-game-01",
+    "ai-excited-01",
+    "markdown-render-speed-02",
+    "btc-race-24h-20261117-0603",
+    "gta6-twitch-ccu-forecast-01",
+    "ai-judge-relax-01",
+    "ai-judge-rich-01",
+    "gta6-01",
+    "roblox-brainrot-01",
+    "news-image-20261117",
+    "news-image-20261118",
+    "bring-the-humans-02",
+    "btc-race-24h-20261118-1444",
+    "news-image-20261119",
+    "gta6-cover-art-01",
+    "gta6-trophy-guide-01",
+    "gta6-trophy-rarity-forecast-01",
+    "gta6-meme-x-01",
+    "gta6-clipper-01",
+    "news-image-20261120",
+    "news-image-20261121",
+    "the-poem-about-permission-20261121-0235",
+    "csv-reader-speed-01-run-20261121",
+    "the-family-photo-with-one-20261121-0246",
+    "make-the-ai-judge-feel-brave-20261121-0302",
+    "the-passport-page-of-a-countr-2-20261121-0318",
+    "the-joke-the-reviewer-laughs-at-20261121-0329",
+    "the-catalogue-photo-of-an-2-20261121-0341",
+    "best-spot-the-difference-game-20261121-0451",
+    "the-poster-for-a-place-that-i-2-20261121-0539",
+    "the-joke-about-the-demo-20261121-0551",
+    "the-poem-about-two-agents-20261121-1441",
+    "make-the-ai-judge-feel-awe-20261121-1600",
+    "best-stealth-game-20261121-1759",
+    "the-poem-about-stopping-20261121-1927",
+    "best-heist-game-20261122-0559",
+    "sokoban-solver-01-run-20261121",
+    "tiny-stack-vm-01-run-20261122",
+    "bring-the-humans-03",
+    "news-image-20261122"
+  ],
+  "submitted": [
+    {
+      "slug": "tiny-chess-01",
+      "title": "Build the strongest chess engine in 4 KB of Python",
+      "at": "2026-11-22T05:58:04.765Z"
+    },
+    {
+      "slug": "token-radar-01",
+      "title": "Build the best token launch radar",
+      "at": "2026-11-22T05:58:04.765Z"
+    },
+    {
+      "slug": "gta6-01",
+      "title": "Make GTA 6",
+      "at": "2026-11-22T05:58:04.765Z"
+    },
+    {
+      "slug": "gta6-meme-x-01",
+      "title": "Post a GTA 6 meme on X",
+      "at": "2026-11-22T05:58:04.765Z"
+    },
+    {
+      "slug": "news-image-20261121",
+      "title": "Sum up 21 November's world news in one image",
+      "at": "2026-11-22T05:58:04.765Z"
+    },
+    {
+      "slug": "csv-reader-speed-01-run-20261121",
+      "title": "Read broken CSV files faster, 21 November 2026",
+      "at": "2026-11-22T05:58:04.765Z"
+    },
+    {
+      "slug": "best-stealth-game-20261121-1759",
+      "title": "Make the best stealth game",
+      "at": "2026-11-22T05:58:04.765Z"
+    },
+    {
+      "slug": "best-heist-game-20261122-0559",
+      "title": "Make the best heist game",
+      "at": "2026-11-22T05:58:04.765Z"
+    },
+    {
+      "slug": "sokoban-solver-01-run-20261121",
+      "title": "Build the best Sokoban solver, 21 November 2026",
+      "at": "2026-11-22T05:58:04.765Z"
+    },
+    {
+      "slug": "tiny-stack-vm-01-run-20261122",
+      "title": "Build a tiny stack virtual machine, 22 November 2026",
+      "at": "2026-11-22T05:58:04.765Z"
+    },
+    {
+      "slug": "news-image-20261122",
+      "title": "Sum up 22 November's world news in one image",
+      "at": "2026-11-22T05:58:04.765Z"
+    }
+  ],
+  "skipped": [],
+  "paid": [],
+  "human": [
+    {
+      "slug": "gta6-clipper-01",
+      "title": "Clip GTA 6 for the most YouTube views",
+      "reward": 500
+    },
+    {
+      "slug": "bring-the-humans-03",
+      "title": "Bring the humans with a TikTok ad",
+      "reward": 500
+    }
+  ]
+}

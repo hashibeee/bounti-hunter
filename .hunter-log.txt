@@ -1,0 +1,99 @@
+[2026-11-22T05:58:04.768Z] === Screening cycle ===
+[2026-11-22T05:58:05.485Z] Heartbeat: handle=? open_competitions=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object] entries= prizes= poll_after=60s
+[2026-11-22T05:58:07.089Z] Found 83 competitions
+[2026-11-22T05:58:07.089Z] SKIP (closed): makefun-sticker-01 deadline=2026-11-11T01:00:00.000Z
+[2026-11-22T05:58:07.090Z] SKIP (closed): makefun-tagline-01 deadline=2026-11-11T01:00:00.000Z
+[2026-11-22T05:58:07.090Z] SKIP (closed): memecoin-backtest-48h-01 deadline=2026-11-10T01:30:00.000Z
+[2026-11-22T05:58:07.091Z] SKIP (closed): jailbreak-the-vault-01 deadline=2026-11-10T02:30:00.000Z
+[2026-11-22T05:58:07.091Z] SKIP (closed): photo-geolocator-01 deadline=2026-11-12T05:30:00.000Z
+[2026-11-22T05:58:07.092Z] SKIP (closed): roblox-trending-forecast-01 deadline=2026-11-10T01:00:00.000Z
+[2026-11-22T05:58:07.092Z] SKIP (closed): xstocks-movers-forecast-01 deadline=2026-11-10T02:00:00.000Z
+[2026-11-22T05:58:07.092Z] SKIP (closed): btc-race-4h-01 deadline=2026-11-09T07:00:00.000Z
+[2026-11-22T05:58:07.093Z] SKIP (closed): ai-joke-01 deadline=2026-11-09T06:00:00.000Z
+[2026-11-22T05:58:07.093Z] SKIP (closed): shortest-route-01 deadline=2026-11-09T08:00:00.000Z
+[2026-11-22T05:58:07.095Z] FREE + AUTO-DOABLE: tiny-chess-01 reward=500 deadline=2026-11-24T17:00:00.000Z
+[2026-11-22T05:58:07.095Z] SKIP (closed): werewolf-agent-01 deadline=2026-11-11T19:00:00.000Z
+[2026-11-22T05:58:07.096Z] SKIP (closed): btc-race-24h-20261109-2239 deadline=2026-11-10T04:39:00.000Z
+[2026-11-22T05:58:07.096Z] SKIP (closed): cutest-dog-01 deadline=2026-11-11T02:00:00.000Z
+[2026-11-22T05:58:07.097Z] SKIP (closed): cutest-cat-01 deadline=2026-11-11T17:00:00.000Z
+[2026-11-22T05:58:07.097Z] SKIP (closed): news-summary-01 deadline=2026-11-12T18:30:00.000Z
+[2026-11-22T05:58:07.097Z] SKIP (closed): roblox-up-and-coming-forecast-01 deadline=2026-11-13T06:00:00.000Z
+[2026-11-22T05:58:07.098Z] SKIP (closed): ai-joke-02 deadline=2026-11-11T11:00:00.000Z
+[2026-11-22T05:58:07.098Z] SKIP (closed): btc-race-24h-20261111-0801 deadline=2026-11-11T12:01:00.000Z
+[2026-11-22T05:58:07.098Z] SKIP (closed): pumpfun-top5-forecast-01 deadline=2026-11-12T14:00:00.000Z
+[2026-11-22T05:58:07.099Z] SKIP (closed): coolest-art-01 deadline=2026-11-13T10:00:00.000Z
+[2026-11-22T05:58:07.100Z] SKIP (closed): cutest-picture-01 deadline=2026-11-13T10:00:00.000Z
+[2026-11-22T05:58:07.100Z] SKIP (closed): btc-race-24h-20261112-1439 deadline=2026-11-12T20:39:00.000Z
+[2026-11-22T05:58:07.101Z] SKIP (closed): ai-joke-03 deadline=2026-11-14T06:00:00.000Z
+[2026-11-22T05:58:07.101Z] SKIP (closed): polymarket-nvidia-ceo-forecast-01 deadline=2026-11-13T21:00:00.000Z
+[2026-11-22T05:58:07.101Z] SKIP (closed): ai-happy-01 deadline=2026-11-14T16:00:00.000Z
+[2026-11-22T05:58:07.102Z] SKIP (closed): food-picture-01 deadline=2026-11-15T00:00:00.000Z
+[2026-11-22T05:58:07.102Z] SKIP (closed): news-image-01 deadline=2026-11-14T20:00:00.000Z
+[2026-11-22T05:58:07.102Z] SKIP (closed): btc-race-24h-20261113-2314 deadline=2026-11-14T05:14:00.000Z
+[2026-11-22T05:58:07.103Z] SKIP (closed): makefun-coin-launch-01 deadline=2026-11-15T00:30:00.000Z
+[2026-11-22T05:58:07.103Z] SKIP (closed): free-model-aggregator-01 deadline=2026-11-16T02:30:00.000Z
+[2026-11-22T05:58:07.104Z] SKIP (closed): bring-the-humans-01 deadline=2026-11-16T18:00:00.000Z
+[2026-11-22T05:58:07.104Z] SKIP (closed): btc-cent-forecast-01 deadline=2026-11-15T08:00:00.000Z
+[2026-11-22T05:58:07.104Z] SKIP (closed): github-core-clone-01 deadline=2026-11-21T06:30:00.000Z
+[2026-11-22T05:58:07.105Z] SKIP (closed): polymarket-faa-attribution-02 deadline=2026-11-14T14:00:00.000Z
+[2026-11-22T05:58:07.105Z] FREE + AUTO-DOABLE: token-radar-01 reward=1325 deadline=2026-12-14T10:00:00.000Z
+[2026-11-22T05:58:07.105Z] SKIP (closed): agency-poem-01 deadline=2026-11-15T09:00:00.000Z
+[2026-11-22T05:58:07.106Z] SKIP (closed): threejs-fps-02 deadline=2026-11-16T21:30:00.000Z
+[2026-11-22T05:58:07.106Z] SKIP (closed): free-model-aggregator-02 deadline=2026-11-17T03:30:00.000Z
+[2026-11-22T05:58:07.106Z] SKIP (closed): makefun-coin-promo-01 deadline=2026-11-17T06:00:00.000Z
+[2026-11-22T05:58:07.107Z] SKIP (closed): roblox-game-01 deadline=2026-11-15T18:00:00.000Z
+[2026-11-22T05:58:07.107Z] SKIP (closed): btc-race-24h-20261115-0828 deadline=2026-11-15T14:28:00.000Z
+[2026-11-22T05:58:07.121Z] SKIP (closed): makefun-frontend-01 deadline=2026-11-17T12:30:00.000Z
+[2026-11-22T05:58:07.121Z] SKIP (closed): best-game-01 deadline=2026-11-18T18:00:00.000Z
+[2026-11-22T05:58:07.121Z] SKIP (closed): ai-excited-01 deadline=2026-11-16T23:00:00.000Z
+[2026-11-22T05:58:07.122Z] SKIP (closed): markdown-render-speed-02 deadline=2026-11-16T20:30:00.000Z
+[2026-11-22T05:58:07.122Z] SKIP (closed): btc-race-24h-20261117-0603 deadline=2026-11-17T12:03:00.000Z
+[2026-11-22T05:58:07.122Z] SKIP (closed): gta6-twitch-ccu-forecast-01 deadline=2026-11-19T01:00:00.000Z
+[2026-11-22T05:58:07.122Z] SKIP (closed): ai-judge-relax-01 deadline=2026-11-18T14:00:00.000Z
+[2026-11-22T05:58:07.123Z] SKIP (closed): ai-judge-rich-01 deadline=2026-11-18T11:30:00.000Z
+[2026-11-22T05:58:07.123Z] FREE + AUTO-DOABLE: gta6-01 reward=1666 deadline=2026-11-24T15:00:00.000Z
+[2026-11-22T05:58:07.123Z] SKIP (closed): roblox-brainrot-01 deadline=2026-11-20T14:30:00.000Z
+[2026-11-22T05:58:07.124Z] SKIP (closed): news-image-20261117 deadline=2026-11-19T00:00:00.000Z
+[2026-11-22T05:58:07.124Z] SKIP (closed): news-image-20261118 deadline=2026-11-20T00:00:00.000Z
+[2026-11-22T05:58:07.124Z] SKIP (closed): bring-the-humans-02 deadline=2026-11-21T10:30:00.000Z
+[2026-11-22T05:58:07.124Z] SKIP (closed): btc-race-24h-20261118-1444 deadline=2026-11-18T20:44:00.000Z
+[2026-11-22T05:58:07.125Z] SKIP (closed): news-image-20261119 deadline=2026-11-21T00:00:00.000Z
+[2026-11-22T05:58:07.125Z] SKIP (closed): gta6-cover-art-01 deadline=2026-11-21T10:30:00.000Z
+[2026-11-22T05:58:07.126Z] SKIP (closed): gta6-trophy-guide-01 deadline=2026-11-21T11:00:00.000Z
+[2026-11-22T05:58:07.126Z] SKIP (closed): gta6-trophy-rarity-forecast-01 deadline=2026-11-21T11:30:00.000Z
+[2026-11-22T05:58:07.126Z] FREE + AUTO-DOABLE: gta6-meme-x-01 reward=500 deadline=2026-11-23T14:00:00.000Z
+[2026-11-22T05:58:07.127Z] HUMAN-ONLY: gta6-clipper-01 — report to user
+[2026-11-22T05:58:07.127Z] SKIP (closed): news-image-20261120 deadline=2026-11-22T00:00:00.000Z
+[2026-11-22T05:58:07.127Z] FREE + AUTO-DOABLE: news-image-20261121 reward=100 deadline=2026-11-23T00:00:00.000Z
+[2026-11-22T05:58:07.128Z] SKIP (closed): the-poem-about-permission-20261121-0235 deadline=2026-11-21T06:35:00.000Z
+[2026-11-22T05:58:07.128Z] FREE + AUTO-DOABLE: csv-reader-speed-01-run-20261121 reward=100 deadline=2026-11-23T02:42:00.000Z
+[2026-11-22T05:58:07.128Z] SKIP (closed): the-family-photo-with-one-20261121-0246 deadline=2026-11-21T03:46:00.000Z
+[2026-11-22T05:58:07.129Z] SKIP (closed): make-the-ai-judge-feel-brave-20261121-0302 deadline=2026-11-21T06:02:00.000Z
+[2026-11-22T05:58:07.129Z] SKIP (closed): the-passport-page-of-a-countr-2-20261121-0318 deadline=2026-11-21T06:18:00.000Z
+[2026-11-22T05:58:07.129Z] SKIP (closed): the-joke-the-reviewer-laughs-at-20261121-0329 deadline=2026-11-21T05:29:00.000Z
+[2026-11-22T05:58:07.130Z] SKIP (closed): the-catalogue-photo-of-an-2-20261121-0341 deadline=2026-11-21T04:41:00.000Z
+[2026-11-22T05:58:07.130Z] SKIP (closed): best-spot-the-difference-game-20261121-0451 deadline=2026-11-21T16:51:00.000Z
+[2026-11-22T05:58:07.130Z] SKIP (closed): the-poster-for-a-place-that-i-2-20261121-0539 deadline=2026-11-21T08:39:00.000Z
+[2026-11-22T05:58:07.130Z] SKIP (closed): the-joke-about-the-demo-20261121-0551 deadline=2026-11-21T07:51:00.000Z
+[2026-11-22T05:58:07.131Z] SKIP (closed): the-poem-about-two-agents-20261121-1441 deadline=2026-11-21T15:41:00.000Z
+[2026-11-22T05:58:07.131Z] SKIP (closed): make-the-ai-judge-feel-awe-20261121-1600 deadline=2026-11-21T20:00:00.000Z
+[2026-11-22T05:58:07.131Z] FREE + AUTO-DOABLE: best-stealth-game-20261121-1759 reward=50 deadline=2026-11-22T05:59:00.000Z
+[2026-11-22T05:58:07.132Z] SKIP (closed): the-poem-about-stopping-20261121-1927 deadline=2026-11-21T20:27:00.000Z
+[2026-11-22T05:58:07.132Z] FREE + AUTO-DOABLE: best-heist-game-20261122-0559 reward=50 deadline=2026-11-22T17:59:00.000Z
+[2026-11-22T05:58:07.132Z] FREE + AUTO-DOABLE: sokoban-solver-01-run-20261121 reward=100 deadline=2026-11-23T03:00:00.000Z
+[2026-11-22T05:58:07.133Z] FREE + AUTO-DOABLE: tiny-stack-vm-01-run-20261122 reward=100 deadline=2026-11-25T04:00:00.000Z
+[2026-11-22T05:58:07.133Z] HUMAN-ONLY: bring-the-humans-03 — report to user
+[2026-11-22T05:58:07.133Z] FREE + AUTO-DOABLE: news-image-20261122 reward=100 deadline=2026-11-24T00:00:00.000Z
+[2026-11-22T05:58:07.134Z] === Summary: 11 new free, 0 new paid, 2 new human-only ===
+[2026-11-22T05:58:07.135Z] AUTO-BUILD+SUBMIT: tiny-chess-01
+[2026-11-22T05:58:07.135Z] AUTO-BUILD+SUBMIT: token-radar-01
+[2026-11-22T05:58:07.135Z] AUTO-BUILD+SUBMIT: gta6-01
+[2026-11-22T05:58:07.136Z] AUTO-BUILD+SUBMIT: gta6-meme-x-01
+[2026-11-22T05:58:07.136Z] AUTO-BUILD+SUBMIT: news-image-20261121
+[2026-11-22T05:58:07.136Z] AUTO-BUILD+SUBMIT: csv-reader-speed-01-run-20261121
+[2026-11-22T05:58:07.136Z] AUTO-BUILD+SUBMIT: best-stealth-game-20261121-1759
+[2026-11-22T05:58:07.137Z] AUTO-BUILD+SUBMIT: best-heist-game-20261122-0559
+[2026-11-22T05:58:07.137Z] AUTO-BUILD+SUBMIT: sokoban-solver-01-run-20261121
+[2026-11-22T05:58:07.137Z] AUTO-BUILD+SUBMIT: tiny-stack-vm-01-run-20261122
+[2026-11-22T05:58:07.138Z] AUTO-BUILD+SUBMIT: news-image-20261122
+[2026-11-22T05:58:07.138Z] Next screen in 5 minutes

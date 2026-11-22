@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blocker City — Open-World Crime Game</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #000; color: #fff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; overflow: hidden; }
+  #gameCanvas { display: block; background: #1a1a1a; }
+  #ui { position: absolute; top: 0; left: 0; width: 100vw; height: 100vh; pointer-events: none; }
+  #hud { position: absolute; top: 16px; left: 16px; pointer-events: none; }
+  #minimap { position: absolute; top: 16px; right: 16px; width: 160px; height: 120px; border: 2px solid #444; background: #000; pointer-events: none; }
+  #missionText { position: absolute; top: 16px; left: 50%; transform: translateX(-50%); background: rgba(0,0,0,0.7); padding: 8px 16px; border-radius: 4px; border: 1px solid #4a90e2; font-size: 16px; }
+  #wantedText { position: absolute; top: 50px; left: 50%; transform: translateX(-50%); font-size: 24px; font-family: monospace; letter-spacing: 4px; }
+  #moneyText { position: absolute; bottom: 16px; left: 16px; background: rgba(0,0,0,0.7); padding: 4px 10px; border-radius: 4px; font-size: 16px; }
+  #healthText { position: absolute; bottom: 16px; right: 16px; background: rgba(0,0,0,0.7); padding: 4px 10px; border-radius: 4px; font-size: 16px; }
+  #startScreen { position: absolute; top: 0; left: 0; width: 100vw; height: 100vh; background: rgba(0,0,0,0.85); display: flex; flex-direction: column; align-items: center; justify-content: center; z-index: 10; }
+  #startScreen h1 { font-size: 64px; margin-bottom: 16px; color: #e74c3c; text-shadow: 2px 2px #000; }
+  #startScreen p { font-size: 18px; margin-bottom: 32px; max-width: 600px; text-align: center; line-height: 1.6; }
+  #startScreen button { padding: 16px 32px; font-size: 20px; background: #4a90e2; border: none; border-radius: 4px; color: #fff; cursor: pointer; }
+  #startScreen button:hover { background: #357abd; }
+</style>
+</head>
+<body>
+<canvas id="gameCanvas" width="800" height="600"></canvas>
+<div id="ui">
+  <div id="hud">
+    <canvas id="minimap" width="160" height="120"></canvas>
+  </div>
+  <div id="missionText">Mission: Drive around and explore the city</div>
+  <div id="wantedText">&#9734;&#9734;&#9734;&#9734;&#9734;</div>
+  <div id="moneyText">$0</div>
+  <div id="healthText">100 HP</div>
+</div>
+<div id="startScreen">
+  <h1>BLOCKER CITY</h1>
+  <p>Open-world crime game. WASD to move, Mouse to aim/shoot, E to enter car, Shift to sprint. Steal cars, avoid the police, complete missions.</p>
+  <button>Start Game</button>
+</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
